@@ -1,0 +1,13 @@
+h1
+{
+    text-align: center;
+}
+#clock 
+{
+    margin: 100px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10%;
+
+}
+    
